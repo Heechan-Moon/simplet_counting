@@ -3,7 +3,7 @@ make main
 
 ks="4 5 6"
 ss="100 1000 10000 100000"
-try="5"
+trial="5"
 threads=6
 
 #datas="coauth-DBLP coauth-MAG-Geology coauth-MAG-History
@@ -21,8 +21,8 @@ do
     do
         for s in ${ss[@]}
         do
-            echo "data="${data} "k="${k} "sample="${s} "try="${try} 
-            OMP_NUM_THREADS=${threads} ./main ${data} ${k} ${s} ${try} 
+            echo "data="${data} "k="${k} "sample="${s} "trial="${trial} 
+            OMP_NUM_THREADS=${threads} ./main ${data} ${k} ${s} ${trial} 
         done
     done
 done
