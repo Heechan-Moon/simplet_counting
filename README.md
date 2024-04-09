@@ -53,7 +53,8 @@ These are source codes for the paper "Estimating Simplet Counts via Sampling".
 |   -LCC | 82,075 | 109,292 |
 | threads-math-sx  |  176,445 | 519,573  |
 |   -LCC | 152,702 | 496,379 |
-| threads-stack-overflow  | 2,301,070 | 8,330,001 |
+| threads-stack-overflow  | 2,675,955 | 8,694,667 |
+|   -LCC | 2,301,070 | 8,330,001 |
   
 ## Outputs
 1. (csv) timestamp for each step (directory: *result\timestamp*)
