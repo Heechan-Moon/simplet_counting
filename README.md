@@ -2,14 +2,14 @@
 
 These are source codes for the paper "Estimating Simplet Counts via Sampling".
 
-1. **SC3** (<U>S</U>implet <U>C</U>ounting via <U>C</U>olor <U>C</U>oding)
+# **SC3: Simplet Counting via Color Coding**
 * **SC3** is the algorithm for counting simplets of size 4 and 5 based on the Color Coding method where simplets are isomorphic classes of connected induced subcomplexes.
 * **SC3**, which extends CC (Color Coding) method from graphs to simplicial complexes, has the following properties:
   1. accurate compared to baselines
   2. fast and scalable
 * Especially, the counts of simplets by SC3 have strong power to characterize SCs domain by domain.
 
-2. **SCRW** (<U>S</U>implet <U>C</U>ounting via <U>R</U>andom <U>W</U>alk)
+# **SCRW: Simplet Counting via Random Walk**
 * **SCRW** is the restricted access model on simplicial complexes for estimating simplet concentration.
 * **SCRW**, which extends RW (Random Walk) method from graphs to simplicial complexes, has the following properties:
   1. comparable speed and accuracy compared to SC3
