@@ -20,6 +20,7 @@ These are source codes for the paper "Estimating Simplet Counts via Sampling".
 2. Each dataset we used in our SCRW experiments is the LCC of the original one. This was pre-processed to satisfy maximality and is available [here](https://postechackr-my.sharepoint.com/personal/hhyy0401_postech_ac_kr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhhyy0401%5Fpostech%5Fac%5Fkr%2FDocuments%2F%EC%97%B0%EA%B5%AC%2D%EC%98%A8%EB%9D%BC%EC%9D%B8%2Fmaximal%5FLCC&ga=1).
 3. [Statistics of datasets we used]
 * ‘-’ implies that the statistic is the same as that of its full SC.
+  
 | dataset  | # of vertices | # of maximal simplices |
 |----|---:|---:|
 | coauth-DBLP | 1,924,991 | 1,730,664 |
