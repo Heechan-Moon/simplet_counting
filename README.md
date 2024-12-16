@@ -11,7 +11,7 @@ This work is an extended version of "Characterization of Simplicial Complexes by
   2. fast and scalable
 * Especially, the counts of simplets by SC3 have strong power to characterize SCs domain by domain.
 * The original SC3 code, which supports size 4 and 5 simplets, can be found [here](https://github.com/hhyy0401/SC3).
-* Additionally, we extend the simplet size to 6 and include SC3-E, a memory-efficient version of SC3.
+* In this repository, we extend the simplet size to 6 and include SC3-E, a memory-efficient version of SC3.
 
 ## **SCRW: Simplet Counting via Random Walk**
 * **SCRW** is the restricted access model on simplicial complexes for estimating simplet concentration.
